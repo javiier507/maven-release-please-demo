@@ -1,4 +1,4 @@
-name: sife-api-release
+name: demo-release
 
 on:
   workflow_dispatch:
