@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/javiier507/maven-release-please-demo/compare/v1.1.0...v1.2.0) (2024-06-23)
+
+
+### Features
+
+* agregando feature 4 ([3ab683a](https://github.com/javiier507/maven-release-please-demo/commit/3ab683ace637cbf5156e44378982dd2089cd3f19))
+* agregando feature 5 ([9f8b158](https://github.com/javiier507/maven-release-please-demo/commit/9f8b1580fc3fa21cf0e34f91443d1262342935da))
+
 ## [1.1.0](https://github.com/javiier507/maven-release-please-demo/compare/v1.0.0...v1.1.0) (2024-06-23)
 
 
